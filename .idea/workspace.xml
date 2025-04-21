@@ -4,11 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="内容补充">
-      <changelist_data name="wangch" email="" automatic="false" />
-      <change afterPath="$PROJECT_DIR$/3_Transforms.ipynb" afterDir="false" />
+    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="3_Transforms">
+      <change afterPath="$PROJECT_DIR$/10_nn_ReLU_and_Sigmoid.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/11_nn_Linear.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4_Torchvision_Datasets.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/5_DataLoader.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/6_nn_Module.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/7_nn_functional_Convolution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/8_nn_Convolution.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_Tensorboard.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2_Tensorboard.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Transforms.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/3_Transforms.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +92,8 @@
       <workItem from="1745099486283" duration="2625000" />
       <workItem from="1745161655131" duration="373000" />
       <workItem from="1745211343086" duration="5033000" />
-      <workItem from="1745222261217" duration="668000" />
+      <workItem from="1745222261217" duration="995000" />
+      <workItem from="1745242387543" duration="5501000" />
     </task>
     <task id="LOCAL-00001" summary="进行内容补充">
       <option name="closed" value="true" />
@@ -103,7 +111,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745160276482</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="3_Transforms">
+      <option name="closed" value="true" />
+      <created>1745223066368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1745223066369</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +140,7 @@
     <MESSAGE value="test" />
     <MESSAGE value="进行内容补充" />
     <MESSAGE value="内容补充" />
-    <option name="LAST_COMMIT_MESSAGE" value="内容补充" />
+    <MESSAGE value="3_Transforms" />
+    <option name="LAST_COMMIT_MESSAGE" value="3_Transforms" />
   </component>
 </project>
