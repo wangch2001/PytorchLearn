@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="7_nn_functional_Convolution">
+    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="12_nn_Sequential">
+      <change afterPath="$PROJECT_DIR$/images/Loss_Functions.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Optim.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/Optism2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_nn_ReLU_and_Sigmoid.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/10_nn_ReLU_and_Sigmoid.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_nn_Linear.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/11_nn_Linear.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_nn_functional_Convolution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/7_nn_functional_Convolution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_nn_Convolution.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/8_nn_Convolution.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,19 +51,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.intellij.jupyter.core.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -94,7 +93,8 @@
       <workItem from="1745211343086" duration="5033000" />
       <workItem from="1745222261217" duration="995000" />
       <workItem from="1745242387543" duration="6221000" />
-      <workItem from="1745304750107" duration="4304000" />
+      <workItem from="1745304750107" duration="4527000" />
+      <workItem from="1745319168935" duration="1627000" />
     </task>
     <task id="LOCAL-00001" summary="进行内容补充">
       <option name="closed" value="true" />
@@ -128,7 +128,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745248405968</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="12_nn_Sequential">
+      <option name="closed" value="true" />
+      <created>1745309239158</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1745309239158</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -151,6 +159,7 @@
     <MESSAGE value="内容补充" />
     <MESSAGE value="3_Transforms" />
     <MESSAGE value="7_nn_functional_Convolution" />
-    <option name="LAST_COMMIT_MESSAGE" value="7_nn_functional_Convolution" />
+    <MESSAGE value="12_nn_Sequential" />
+    <option name="LAST_COMMIT_MESSAGE" value="12_nn_Sequential" />
   </component>
 </project>
