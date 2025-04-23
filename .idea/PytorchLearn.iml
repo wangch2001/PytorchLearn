@@ -5,6 +5,9 @@
       <excludeFolder url="file://$MODULE_DIR$/data/hymenoptera_data" />
       <excludeFolder url="file://$MODULE_DIR$/data/练手数据集" />
       <excludeFolder url="file://$MODULE_DIR$/models" />
+      <excludeFolder url="file://$MODULE_DIR$/data/CIFAR10" />
+      <excludeFolder url="file://$MODULE_DIR$/data/demo_image" />
+      <excludeFolder url="file://$MODULE_DIR$/logs" />
     </content>
     <orderEntry type="jdk" jdkName="py38" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
