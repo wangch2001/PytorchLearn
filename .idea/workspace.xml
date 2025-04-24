@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="14_torch_optim">
-      <change afterPath="$PROJECT_DIR$/images/ImageNet_files.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/VGG16_kwargs.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/VGG16_weight.png" afterDir="false" />
+    <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="更新内容">
+      <change afterPath="$PROJECT_DIR$/17_Model_training.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/18_Train_gpu_1.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/19_Train_gpu_2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/20_predict.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model_save.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dog.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -47,13 +50,13 @@
   &quot;associatedIndex&quot;: 2
 }</component>
   <component name="ProjectId" id="2vxGLypuAhYMMAabGATD5IlVL4r" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.Model_save.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
@@ -71,11 +74,41 @@
       <recent name="$PROJECT_DIR$/images" />
     </key>
   </component>
+  <component name="RunManager">
+    <configuration name="Model_save" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PytorchLearn" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model_save.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Model_save" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-1632447f56bf-JavaScript-PY-243.26053.29" />
-        <option value="bundled-python-sdk-b1dbf8ef85a6-4df51de95216-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-243.26053.29" />
+        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-PY-251.23774.444" />
+        <option value="bundled-python-sdk-890ed5b35930-d9c5bdb153f4-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.23774.444" />
       </set>
     </attachedChunks>
   </component>
@@ -96,7 +129,11 @@
       <workItem from="1745242387543" duration="6221000" />
       <workItem from="1745304750107" duration="4527000" />
       <workItem from="1745319168935" duration="1983000" />
-      <workItem from="1745374852768" duration="2633000" />
+      <workItem from="1745374852768" duration="2771000" />
+      <workItem from="1745389086054" duration="415000" />
+      <workItem from="1745462105810" duration="78000" />
+      <workItem from="1745462205483" duration="3030000" />
+      <workItem from="1745467080744" duration="3280000" />
     </task>
     <task id="LOCAL-00001" summary="进行内容补充">
       <option name="closed" value="true" />
@@ -146,7 +183,15 @@
       <option name="project" value="LOCAL" />
       <updated>1745321074198</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="更新内容">
+      <option name="closed" value="true" />
+      <created>1745378782173</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1745378782173</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -171,6 +216,10 @@
     <MESSAGE value="7_nn_functional_Convolution" />
     <MESSAGE value="12_nn_Sequential" />
     <MESSAGE value="14_torch_optim" />
-    <option name="LAST_COMMIT_MESSAGE" value="14_torch_optim" />
+    <MESSAGE value="更新内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新内容" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PytorchLearn$Model_save.coverage" NAME="Model_save 覆盖结果" MODIFIED="1745463806587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
