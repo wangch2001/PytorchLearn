@@ -1,3 +1,6 @@
 /data/
 /logs/
 /models/
+/MNIST_demo/data/
+/MNIST_demo/logs/
+/MNIST_demo/models/
