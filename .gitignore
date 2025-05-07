@@ -1,6 +1,3 @@
-/data/
-/logs/
-/models/
-/MNIST_demo/data/
-/MNIST_demo/logs/
-/MNIST_demo/models/
+/code_example/AlexNet/AlexNet.pth
+/code_example/AlexNet/data_set/flower_data/
+/tudui/data/

@@ -8,8 +8,9 @@
       <excludeFolder url="file://$MODULE_DIR$/data/CIFAR10" />
       <excludeFolder url="file://$MODULE_DIR$/data/demo_image" />
       <excludeFolder url="file://$MODULE_DIR$/logs" />
+      <excludeFolder url="file://$MODULE_DIR$/code_example/AlexNet/data_set/flower_data" />
     </content>
-    <orderEntry type="jdk" jdkName="py38" jdkType="Python SDK" />
+    <orderEntry type="jdk" jdkName="py39" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

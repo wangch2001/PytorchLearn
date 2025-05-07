@@ -5,7 +5,45 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c56d0e1e-44d4-4603-87ab-83d8ca8607b1" name="更改" comment="更新内容">
+      <change afterPath="$PROJECT_DIR$/code_example/AlexNet/tulip.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/PytorchLearn.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/PytorchLearn.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/10_nn_ReLU_and_Sigmoid.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/11_nn_Linear.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/12_nn_Sequential.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13_Loss_Functions_and_Backward.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/14_torch_optim.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/15_Model_Pretrained.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/16_Model_saving_and_loading.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/17_Model_training.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/18_Train_gpu_1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/19_Train_gpu_2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/1_Dataset.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/20_predict.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2_Tensorboard.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/3_Transforms.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/4_Torchvision_Datasets.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/5_DataLoader.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/6_nn_Module.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/7_nn_functional_Convolution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/8_nn_Convolution.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/9_nn_MaxPool.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST_demo/MNIST_CNN.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/MNIST_demo/Predict.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Model_save.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/ImageNet_files.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/LeNet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Loss_Functions.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/MNIST_cnn_net.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Optim.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/Optism2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/VGG16_kwargs.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/VGG16_weight.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/dog.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/six.png" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +92,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/PytorchLearn/code_example/AlexNet",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -64,6 +103,9 @@
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PytorchLearn\code_example\AlexNet" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
     </key>
@@ -130,6 +172,7 @@
       <workItem from="1745467080744" duration="3551000" />
       <workItem from="1745477398196" duration="7280000" />
       <workItem from="1745584639247" duration="2558000" />
+      <workItem from="1746608892396" duration="7111000" />
     </task>
     <task id="LOCAL-00001" summary="进行内容补充">
       <option name="closed" value="true" />
